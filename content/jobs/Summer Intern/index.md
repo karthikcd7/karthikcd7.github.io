@@ -1,10 +1,11 @@
 ---
 date: '2019-06-01'
 title: 'Summer Intern'
+companyTile: 'DSU'
 company: 'Dayananda Sagar University'
 location: 'Boston, MA'
 range: 'June 2019 - July 2019'
-url: 'https://starry.com/'
+url: 'https://www.dsu.edu.in/'
 ---
 
 - Extracted 36 waveband information from a MODIS Satellite dataset of South India and developed heat maps to depict the flora and fuana present in distinct places, and were able to monitor the region and get comparable results as predicted by NASA.

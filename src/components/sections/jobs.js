@@ -140,7 +140,12 @@ const StyledTabPanel = styled.div`
   width: 100%;
   height: auto;
   padding: 10px 5px;
-
+  a {
+    color: var(--green);
+  }
+  a:hover {
+    text-decoration: underline;
+  }
   ul {
     ${({ theme }) => theme.mixins.fancyList};
   }
@@ -175,6 +180,7 @@ const Jobs = () => {
           node {
             frontmatter {
               title
+              companyTile
               company
               location
               range
@@ -250,7 +256,7 @@ const Jobs = () => {
         <StyledTabList role="tablist" aria-label="Job tabs" onKeyDown={e => onKeyDown(e)}>
           {jobsData &&
             jobsData.map(({ node }, i) => {
-              const { company } = node.frontmatter;
+              const { companyTile } = node.frontmatter;
               return (
                 <StyledTabButton
                   key={i}
@@ -262,7 +268,7 @@ const Jobs = () => {
                   tabIndex={activeTabId === i ? '0' : '-1'}
                   aria-selected={activeTabId === i ? true : false}
                   aria-controls={`panel-${i}`}>
-                  <span>{company}</span>
+                  <span>{companyTile}</span>
                 </StyledTabButton>
               );
             })}
@@ -296,7 +302,7 @@ const Jobs = () => {
 
                     <p className="range">{range}</p>
 
-                    <div dangerouslySetInnerHTML={{ __html: html }} />
+                    <div className="a-color" dangerouslySetInnerHTML={{ __html: html }} />
                   </StyledTabPanel>
                 </CSSTransition>
               );

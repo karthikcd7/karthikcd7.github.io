@@ -72,12 +72,17 @@ const Hero = () => {
   );
   const five = (
   <p>
-  <h1>I’m actively looking for full time opportunities in software engineering starting May 2024. Reach out to me at <a href={`mailto:${email}`}>{email}</a>.</h1>
+  I’m actively looking for full time opportunities in software engineering starting May 2024. <br></br> Reach out to me at <a href={`mailto:${email}`}>{email}</a>.
   </p>
+  );
+  const six = (
+    <a className="email-link" href="/resume.pdf" target="_blank" rel="noreferrer">
+      Resume
+    </a>
   );
   
 
-  const items = [one, two, three, four, five];
+  const items = [one, two, three, four, five, six];
 
   return (
     <StyledHeroSection>
