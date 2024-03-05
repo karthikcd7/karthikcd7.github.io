@@ -8,8 +8,11 @@ range: 'May 2023 - Dec 2023'
 url: 'https://www.addgene.org/'
 ---
 
-- Leveraged complex ORM queries, MVT architecture strategies to develop and optimize multi-tenant Django backend for internal management software using CI/CD pipelines, serving 1000+ customers.
-- Drove agile test-driven development of robust, full-stack SaaS using server-side rendering REST APIs and JavaScript. Authored documentation of over 100 test suites.
-- Collaborated with cross-functional teams, product management to build modern, scalable web application.
-- Participated in code reviews to strategically prioritize deliverables and ensure to achieve 100% product goals.
-- Researched 10+ generative AI, large language models (LLM) to enhance user experience by enabling personalized product recommendations and relevant search results without extensive user searching.
+- Leveraged ORM queries to optimize Django backend with CI/CD pipelines for 1000+ customers.
+- Led agile test-driven development (TDD) for a resilient, full-stack application, incorporating REST APIs using
+JavaScript, and documented over 100 test suites.
+- Containerized front-end dev tools including HTML/CSS validators, linters, and formatters using Docker enabling
+one-click access from IDE and CI/CD pipelines.
+- Collaborated with cross-functional teams including product management and participated in code reviews to
+strategically prioritize deliverables and achieve 100% product goals.
+- Researched 10+ Large Language Models (LLM) to streamline search results, personalize product recommendations.
