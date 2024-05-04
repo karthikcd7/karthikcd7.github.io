@@ -1,13 +1,12 @@
 ---
 date: '2021-01-01'
-title: 'Research Assitant'
+title: 'Machine Learning - Research Assitant'
 companyTile: 'DSU'
 company: 'Dayananda Sagar University'
 location: 'Bangalore, KA, India'
-range: 'January 2021 - May 2022'
+range: 'Jan 2021 - May 2022'
 url: 'https://www.dsu.edu.in/'
 ---
-Skeletal Bone Age Determination Using Deep Learning
-- Spearheaded a groundbreaking project aimed at leveraging Convolutional Neural Networks (CNN) for bone age assessment in dental patients, aligning with clinical diagnosis needs and identifying growth abnormalities.
-- Utilized deep learning techniques to predict bone age from hand X-ray images of patients aged 4 to 17, aiming to automate and expedite the bone age assessment process.
+- Trained and fine-tuned deep learning Convolutional Neural Network models utilizing TensorFlow, Keras on a large dataset of medical imaging data to predict pediatric bone age, lowering prediction errors by 24%.
+- Developed an end-to-end machine learning application for pediatric bone age prediction, encompassing data ingestion, preprocessing, model training, deployment, monitoring, and updating pipelines.
 - Published in [ICAIHC 2022](https://link.springer.com/chapter/10.1007/978-981-19-6068-0_6).

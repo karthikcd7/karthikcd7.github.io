@@ -1,11 +1,11 @@
 ---
-date: '2020-07-01'
-title: 'Software Engineer Intern'
+date: '2020-05-01'
+title: 'Software Engineer'
 companyTile: 'MARG'
 company: 'MARG Innovations'
 location: 'Sunnyvale, CA'
-range: 'July 2020 - September 2020'
+range: 'May 2020 - Dec 2020'
 # url: 'https://web.northeastern.edu/scout/'
 ---
-- Smart Verification: Deployed and scaled ETL data processing pipeline using Python, Flask microservices, verifying user images with over 90% accuracy for efficient high volume verification.
-- App User Insights Dashboard: Developed a web dashboard to analyze over 1000 reviews using Topic Modelling (LDA) and N-gram frequency distributions to identify the dominant opinions among users.
+- Built an ETL pipeline using Computer Vision to extract data from images, load it into PostgreSQL relational database and architected RESTful microservices reducing end-to-end validation time by 30%.
+- Spearheaded the implementation of a web-based dashboard using Natural Language Processing (NLP) to fetch and process 10,000 user reviews for visualization and analysis while effectively communicating progress and insights.

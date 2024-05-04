@@ -1,6 +1,6 @@
 ---
 date: '2023-05-07'
-title: 'Software Engineer Co-op'
+title: 'Software Engineer'
 companyTile: 'Addgene'
 company: 'Addgene Inc'
 location: 'Watertown, MA'
@@ -8,11 +8,8 @@ range: 'May 2023 - Dec 2023'
 url: 'https://www.addgene.org/'
 ---
 
-- Leveraged ORM queries to optimize Django backend with CI/CD pipelines for 1000+ customers.
-- Led agile test-driven development (TDD) for a resilient, full-stack application, incorporating REST APIs using
-JavaScript, and documented over 100 test suites.
-- Containerized front-end dev tools including HTML/CSS validators, linters, and formatters using Docker enabling
-one-click access from IDE and CI/CD pipelines.
-- Collaborated with cross-functional teams including product management and participated in code reviews to
-strategically prioritize deliverables and achieve 100% product goals.
-- Researched 10+ Large Language Models (LLM) to streamline search results, personalize product recommendations.
+- Developed a full-stack Django application using ORM for efficient data management handling 5000 daily requests.
+- Containerized DevOps tools using Docker, Unix scripting for CI/CD integration and improved workflow by 20%.
+- Collaborated across cross-functional teams using version control systems like Git during code reviews for requirement analysis, robust error handling mechanisms and delivered high quality code achieving 100% product goals.
+- Integrated Test Driven Development methodologies (TDD) within the Software Development Life Cycle (SDLC).
+- Implemented test automation with Selenium and Jasmine for JavaScript unit testing, ensuring code quality.
