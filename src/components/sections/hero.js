@@ -82,7 +82,7 @@ const Hero = () => {
   );
   const five = (
   <p>
-  I’m actively looking for full time opportunities in software engineering starting May 2024. <br></br> Reach out to me at <a href={`mailto:${email}`}>{email}</a>.
+  I’m actively looking for full time opportunities in software engineering starting June 2024. <br></br> Reach out to me at <a href={`mailto:${email}`}>{email}</a>.
   </p>
   );
   const six = (
