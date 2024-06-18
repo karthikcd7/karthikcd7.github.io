@@ -2,7 +2,7 @@
 date: '2020-09-01'
 title: 'Ecom Store'
 github: 'https://github.com/karthikcd7/cs5610-ecom-store'
-external: 'https://github.com/karthikcd7/cs5610-ecom-store'
+# external: 'https://github.com/karthikcd7/cs5610-ecom-store'
 tech:
   - React 
   - Node

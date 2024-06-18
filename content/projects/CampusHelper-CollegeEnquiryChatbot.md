@@ -2,7 +2,7 @@
 date: '2020-02-01'
 title: 'CampusHelper - College Enquiry Chatbot'
 github: 'https://github.com/karthikcd7/CampusHelper-College-Enquiry-Chatbot'
-external: 'https://github.com/karthikcd7/CampusHelper-College-Enquiry-Chatbot'
+# external: 'https://github.com/karthikcd7/CampusHelper-College-Enquiry-Chatbot'
 tech:
   - Flask
   - NLTK

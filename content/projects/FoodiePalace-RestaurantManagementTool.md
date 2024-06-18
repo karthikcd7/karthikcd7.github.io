@@ -2,7 +2,7 @@
 date: '2022-09-01'
 title: 'Foodie Palace - Restaurant Management Tool'
 github: 'https://github.com/karthikcd7/FoodiePalace-RestaurantManagementTool'
-external: 'https://github.com/karthikcd7/FoodiePalace-RestaurantManagementTool'
+# external: 'https://github.com/karthikcd7/FoodiePalace-RestaurantManagementTool'
 tech:
   - Flask
   - Javascript

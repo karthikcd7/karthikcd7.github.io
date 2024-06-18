@@ -2,7 +2,7 @@
 date: '2021-02-01'
 title: 'Skeletal Boneage Determination'
 github: 'https://github.com/karthikcd7/Skeletal-boneage-determination'
-external: 'https://github.com/karthikcd7/Skeletal-boneage-determination'
+# external: 'https://github.com/karthikcd7/Skeletal-boneage-determination'
 tech:
   - Tensorflow
   - CNN

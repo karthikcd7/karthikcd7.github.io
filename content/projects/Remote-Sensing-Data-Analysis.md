@@ -2,7 +2,7 @@
 date: '2019-06-01'
 title: 'Remote Sensing Data Analysis'
 github: 'https://github.com/karthikcd7/Remote-Sensing-Data-Analysis'
-external: 'https://github.com/karthikcd7/Remote-Sensing-Data-Analysis'
+# external: 'https://github.com/karthikcd7/Remote-Sensing-Data-Analysis'
 tech:
   - R
   - Data Analysis

@@ -2,7 +2,7 @@
 date: '2020-09-01'
 title: 'Multithreaded HTTP Server'
 github: 'https://github.com/karthikcd7/Multithreaded-HTTP-Server-USP'
-external: 'https://github.com/karthikcd7/Multithreaded-HTTP-Server-USP'
+# external: 'https://github.com/karthikcd7/Multithreaded-HTTP-Server-USP'
 tech:
   - Java
   - Multithreading

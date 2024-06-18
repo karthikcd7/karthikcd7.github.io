@@ -2,7 +2,7 @@
 date: '2019-01-01'
 title: 'PackMyPic'
 github: 'https://github.com/karthikcd7/PackMyPic'
-external: 'https://github.com/karthikcd7/PackMyPic'
+# external: 'https://github.com/karthikcd7/PackMyPic'
 tech:
   - C
   - Python

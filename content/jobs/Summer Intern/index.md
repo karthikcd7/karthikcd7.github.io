@@ -1,6 +1,6 @@
 ---
 date: '2019-06-01'
-title: 'Data Scientist'
+title: 'Data Scientist Intern'
 companyTile: 'DSU'
 company: 'Dayananda Sagar University'
 location: 'Boston, MA'

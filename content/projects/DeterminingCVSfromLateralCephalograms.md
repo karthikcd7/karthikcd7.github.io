@@ -2,7 +2,7 @@
 date: '2021-09-01'
 title: 'Determining CVS from Lateral Cephalograms'
 github: 'https://github.com/karthikcd7/Determining-CVS-from-Lateral-Cephalograms'
-external: 'https://github.com/karthikcd7/Determining-CVS-from-Lateral-Cephalograms'
+# external: 'https://github.com/karthikcd7/Determining-CVS-from-Lateral-Cephalograms'
 tech:
   - CNN
   - Deep Learning

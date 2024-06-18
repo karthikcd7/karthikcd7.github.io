@@ -2,7 +2,7 @@
 date: '2023-01-08'
 title: 'Analyzing Global Electricity Statistics'
 github: 'https://github.com/karthikcd7/Analyzing-Global-Electricity-Statistics-IDMP'
-external: 'https://github.com/karthikcd7/Analyzing-Global-Electricity-Statistics-IDMP'
+# external: 'https://github.com/karthikcd7/Analyzing-Global-Electricity-Statistics-IDMP'
 tech:
   - Python
   - Machine Learning

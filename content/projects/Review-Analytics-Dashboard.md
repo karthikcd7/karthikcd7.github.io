@@ -2,7 +2,7 @@
 date: '2020-06-01'
 title: 'Review Analytics Dashboard'
 github: 'https://github.com/karthikcd7/Review-Analytics-Dashboard'
-external: ''
+# external: ''
 tech:
   - NLTK
   - Flask
