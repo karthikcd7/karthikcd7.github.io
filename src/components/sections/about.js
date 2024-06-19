@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python', 'Java', 'C++', 'JavaScript', 'SQL', 'NoSQL', 'React', 'Django', 'Node.js', 'AWS'];
+  const skills = ['Python', 'Java', 'C++', 'SQL, NoSQL', 'Tensorflow', 'Spark', 'Kafka', 'Pandas', 'Numpy', 'Scikit-learn', 'NLTK', 'AWS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,7 +134,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
+            {/* <p>
               Hello! My name is Karthik and I am a motivated computer science graduate student at Northeastern University 
               leveraging strong technical capabilities and proven ability to translate complex concepts into intuitive interfaces. 
               I am equipped with a Bachelor of Technology in Computer Science focused on honing OOP methodologies, algorithms, data structures, 
@@ -145,7 +145,20 @@ const About = () => {
             Currently expanding expertise in web development, cloud computing, and natural language processing 
             while completing a Master of Science in Computer Science. I am passionate about developing AI-powered 
             solutions that enhance efficiency and accessibility. 
-            </p>
+            </p> */}
+
+            <p>Hello! My name is Karthik and I'm a tech enthusiast with a knack for blending the latest 
+              AI/ML capabilities with scalable, cloud-driven architectures to build game-changing applications.
+               My journey has taken me from academic research labs to fast-paced startups, picking up a 
+               diverse skill set along the way.</p>
+
+            <p>Some of my noteworthy creations include a cutting-edge multimodal movie recommendation 
+              system powered by large language models, a full-stack restaurant management solution, and 
+              an automated clinical diagnosis system using deep learning (even got it published!).</p>
+
+            <p>I'm a big believer in agile methodologies, DevOps mindset, and putting the user first. 
+              I thrive in dynamic, collaborative environments where I can mentor teams, embrace 
+              entrepreneurial thinking, and channel my creative energy into tackling ambitious challenges.</p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
